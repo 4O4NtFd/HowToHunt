@@ -1,9 +1,9 @@
-## Contributing
+## 贡献
 
-If you have any ideas for things we should include, please use ONE of the following methods to submit them:
+如果您对我们应该包括的内容有任何想法，请使用以下方法之一提交：
 
-* Send us pull requests
-* Create an issue in the project (with links, and we'll parse and incorporate them)
-* Message us on twitter `https://twitter.com/KathanP19` or `https://twitter.com/remonsec` with content to add.
+* 向我们发送pull requests
+* 在项目中创建一个问题（带有链接，我们将解析并合并它们）
+* 在推特上给我们留言 `https://twitter.com/KathanP19` 或者 `https://twitter.com/remonsec` 要添加的内容。
 
-Significant effort is made to give attribution for these content whenever possible, and if you are a content owner or know who the original author/curator is, please let us know so we can give proper credit.
+我们会尽最大努力尽可能为这些内容提供署名，如果您是内容所有者或知道原作者/策展人是谁，请告知我们，以便我们给予适当的评价。
