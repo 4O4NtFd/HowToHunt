@@ -1,31 +1,32 @@
-# HowToHunt
+# 如何挖洞
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-55-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Some Tutorials and Things to Do while Hunting Particular Vulnerability. 
+一些教程和在寻找特定漏洞时要做的事情。
 
 ## GitBook Link :- https://kathan19.gitbook.io/
 ## GitHub Repo Link :- https://github.com/KathanP19/HowToHunt
 
-***\- Goto Above GitBook link if you want to read and To Contribute goto Github and and make a Pull Request !!.***
+***\- 如果你想阅读和贡献，请转到 GitBook 链接上方，然后转到 Github 并提出拉取请求 !!.***
 
-**Note: You Can Help Me Complete This List By Making Pull Request And Please Mention Your Twitter Handler at the End Of the file.**
+**注意：您可以通过提出请求请求来帮助我完成此列表，并请在文件末尾提及您的 Twitter 处理程序。**
 
-**All the Credits to All the Contributors Without You It Could Have Never Been possible**
+**对所有贡献者的所有功劳，如果没有你，这是不可能的**
 
-**If you want to know what's added every week then follow me on twitter [https://twitter.com/KathanP19](https://twitter.com/KathanP19) I post what's updated every weekends.**
+**如果您想知道每周添加的内容，请在 twitter [https://twitter.com/KathanP19](https://twitter.com/KathanP19) 上关注我，我会在每个周末发布更新内容。**
 
-[If You Want To Support Project Or Me You Can Buy Me A Coffee](https://www.buymeacoffee.com/kathanp19)
+[如果你想支持项目或者原作者，你可以给原作者买杯咖啡](https://www.buymeacoffee.com/kathanp19)
 
 <a href="https://www.buymeacoffee.com/kathanp19" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-## Contributors ✨
+## 贡献者✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+感谢这些优秀的人 ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+
 <table>
   <tr>
     <td align="center"><a href="https://github.com/KathanP19"><img src="https://avatars2.githubusercontent.com/u/33719912?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kathan Patel</b></sub></a><br /><a href="#tutorial-KathanP19" title="Tutorials">✅</a></td>
@@ -105,4 +106,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+本项目遵循 [all-contributors](https://github.com/all-contributors/all-contributors) 规范。 欢迎任何形式的贡献！
