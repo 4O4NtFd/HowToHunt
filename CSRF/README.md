@@ -1,10 +1,10 @@
-# Some MindMap
----
-### 6 CSRF Bypass by Hack3rSr0lls
-![https://pbs.twimg.com/media/EY70bxkWkAAFzGb?format=jpg&name=900x900](https://pbs.twimg.com/media/EY70bxkWkAAFzGb?format=jpg&name=900x900)
+# 一些脑图
 
-### CSRF Mindmap
-![https://gblobscdn.gitbook.com/assets%2F-L_2uGJGU7AVNRcqRvEi%2F-LrAtLpniLVMCWL-CVF-%2F-LrAtNhzv9bhi7vB_zs7%2Fimage.png?alt=media&token=ead94d04-f31d-4d99-9087-9bf92d091b0b](https://gblobscdn.gitbook.com/assets%2F-L_2uGJGU7AVNRcqRvEi%2F-LrAtLpniLVMCWL-CVF-%2F-LrAtNhzv9bhi7vB_zs7%2Fimage.png?alt=media&token=ead94d04-f31d-4d99-9087-9bf92d091b0b)
+### 6个CSRF绕过  by Hack3rSr0lls
+![68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4559373062786b576b4141467a47623f666f726d61743d6a7067266e616d653d39303078393030.jfif](68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4559373062786b576b4141467a47623f666f726d61743d6a7067266e616d653d39303078393030.jfif)
+
+### CSRF 脑图
+![image.png](image.png)
 
 ### Source
 * [https://twitter.com/hackerscrolls/status/1265217322308046849](https://twitter.com/hackerscrolls/status/1265217322308046849)
