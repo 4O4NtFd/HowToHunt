@@ -1,4 +1,4 @@
-# CORS Bypass	
+# CORS 绕过
 1. `Origin:null`
 2. `Origin:attacker.com`
 3. `Origin:attacker.target.com`
@@ -9,11 +9,11 @@
 8. `Origin:sub.attacker%target.com`
 9. `Origin:attacker.com/target.com`
 
-### Authors
+### 作者
 
 * [@tamimhasan404](https://twitter.com/tamimhasan404)
 	
-# Reference Tweets
+# 参考Tweets
 https://twitter.com/trbughunters/status/1287023673845612546
 
 https://twitter.com/Paresh_parmar1/status/1265251507655630848
