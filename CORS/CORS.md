@@ -10,6 +10,7 @@ Step->1. Capture the target website and spider or crawl all the website using bu
 Step->2. Use burp search look for Access-Control
 Step->3. Try to add Origin Header i.e,Origin:attacker.com or Origin:null or Origin:attacker.target.com or Origin:target.attacker.com
 Step->4  If origin is reflected in response means the target is vuln to CORS
+
 步骤->1.捕获目标网站，并使用burp对所有网站进行蜘蛛搜索或抓取。
 步骤->2.使用 burp 搜索查找Access-Control
 步骤->3.尝试添加 Origin Header，即 Origin:attacker.com 或 Origin:null 或 Origin:attacker.target.com 或 Origin:target.attacker.com
@@ -24,6 +25,7 @@ step 1-> find domains i.e subfinder -d target.com -o domains.txt
 step 2-> check alive ones : cat domains.txt | httpx | tee -a alive.txt
 step 3-> send each alive domain into burp i.e, cat alive.txt | parallel -j 10 curl --proxy "http://127.0.0.1:8080" -sk 2>/dev/null
 step 4-> Repeat hunting method 1
+
 步骤 1-> 找到域名，即 subfinder -d target.com -o domains.txt
 步骤 2-> 检查活着的域名：cat domains.txt | httpx | tee -a alive.txt
 步骤 3-> 将每个存活的域名送入burp，即cat alive.txt | parallel -j 10 curl --proxy "http://127.0.0.1:8080" -sk 2>/dev/null
@@ -46,6 +48,7 @@ step2-> grep alive: cat target.txt | httpx | tee -a alive.txt
 step3-> grep all urls using waybackurls by @tomnomnom and gau tool i.e,cat alive.txt | gau | tee -a urls.txt
 step4-> run any of these tools on each url 
 step5-> configure the manually
+
 步骤1-> 查找域，即subfinder -d domain.com -o target.txt
 步骤2-> grep alive: cat target.txt | httpx | tee -a alive.txt
 步骤3-> 使用tomnomnom的waybackurls和gau工具，grep所有的urls，例如，cat alive.txt | gau | tee -a urls.txt
