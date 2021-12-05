@@ -1,23 +1,28 @@
-# HTTP Desync or Request Smuggling:
+# HTTP Desync or Request Smuggling:  <br>HTTP 不同步或请求走私：
 - Basics:
-"HTTP request smuggling is a technique for interfering with the way a web site processes sequences of HTTP requests that are received from one or more users. Request smuggling vulnerabilities are often critical in nature, allowing an attacker to bypass security controls, gain unauthorized access to sensitive data, and directly compromise other application users. " -Portswigger  
+  "HTTP request smuggling is a technique for interfering with the way a web site processes sequences of HTTP requests that are received from one or more users. Request smuggling vulnerabilities are often critical in nature, allowing an attacker to bypass security controls, gain unauthorized access to sensitive data, and directly compromise other application users. " -Portswigger  
+  “HTTP 请求走私是一种干扰网站处理从一个或多个用户收到的 HTTP 请求序列的方式的技术。请求走私漏洞本质上通常很关键，允许攻击者绕过安全控制，获得未经授权的访问 敏感数据，并直接危害其他应用程序用户。” -Portswigger
 
 
  ## Where ?:  
 
  - Any Endpoint might be Vulnerable to HTTP Desync attack.  
- 
+   任何端点都可能容易受到 HTTP Desync 攻击。
+
  - You can Find the Vulnerability on Non-endpoints as well, But impact is always much higher on Sensitive Endpoints ;)
- ---
+   您也可以在非端点上找到漏洞，但对敏感端点的影响总是要高得多；)
+---
  ### Step 1:  
 
- * Go To Repeater tab, and try various Timing based payloads to confirm the bug. More Explaination here:  
+ * Go To Repeater tab, and try various Timing based payloads to confirm the bug. More Explanation here:  
+   转到Repeater选项卡，并尝试各种Timing based payloads以确认错误。 更多解释在这里：
 
 [Finding the Vulnerability](https://portswigger.net/web-security/request-smuggling/finding)
 
 ### Step 2:  
 
-* Once you have successfully discovored the bug, you can chain it with various bugs eg. Account Takeover by stealing session IDs, Cross side Scripting Attacks in User-Agent Header,etc. More Description here:  
+* Once you have successfully discovered the bug, you can chain it with various bugs eg. Account Takeover by stealing session IDs, Cross side Scripting Attacks in User-Agent Header,etc. More Description here:  
+  一旦你成功地发现了这个错误，你就可以将它与各种错误链接起来，例如。 通过窃取会话 ID 进行帐户接管、用户代理标头中的跨端脚本攻击等。 更多描述在这里：
 
 [Exploiting the Vulnerability](https://portswigger.net/web-security/request-smuggling/exploiting)  
 
@@ -81,4 +86,5 @@ https://paper.seebug.org/1049/ (Recommended !)
 
 ### Author:
 [Neutron__](https://twitter.com/Neutron__)
+
 ###### If you think something was missed, feel free to add/modify/delete it :)
