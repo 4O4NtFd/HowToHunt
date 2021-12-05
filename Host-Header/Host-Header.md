@@ -12,7 +12,7 @@
        X-Rewrite-Url:
     ```
 3. If you come across `/api.json` in any AEM instance during bug hunting, try for web cache poisoning via following  
-  `Host: , X-Forwarded-Server , X-Forwarded-Host:`
+    `Host: , X-Forwarded-Server , X-Forwarded-Host:`
    and or simply try https://localhost/api.json HTTP/1.1
 4. Also try `Host: redacted.com.evil.com`
 5. Try Host: evil.com/redacted.com
